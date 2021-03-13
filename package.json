@@ -104,7 +104,7 @@
     "sprintf": "0.1.5",
     "temp": "0.9.1",
     "xcode": "^3.0.1",
-    "xmldom": "^0.3.0"
+    "xmldom": "^0.5.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
